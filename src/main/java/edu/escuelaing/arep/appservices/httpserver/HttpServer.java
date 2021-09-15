@@ -25,7 +25,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import java.io.OutputStream;
-import edu.escuelaing.springplus.Service;
+import edu.escuelaing.arep.appservices.appcomponents.Service;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.nio.file.Files;
